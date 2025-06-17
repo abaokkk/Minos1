@@ -75,6 +75,8 @@
 - 演示视频
 
 - <video src="./../../../../Videos/计算机网络实验/屏幕录制 2025-06-10 181439.mp4"></video>
+https://github.com/user-attachments/assets/82bb432a-c4b1-4107-ab8d-4db9b6ede931
+
 
 ## 未来计划
 
